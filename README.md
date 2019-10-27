@@ -1,4 +1,4 @@
-# Extinction
+# ShutDown / Extinction
 Logiciel permettant l'arrêt d'un PC ou d'un Mac Os // XOJO
 
 Fonctionnalités : 
