@@ -6,3 +6,5 @@ Fonctionnalités :
 - Paramétrage et affichage de l'heure d'arrêt
 - Message avant Arrêt automatique
 - Interface soignée
+
+<img src="MacOs.png" width="640">
